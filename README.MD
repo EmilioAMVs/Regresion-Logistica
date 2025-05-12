@@ -43,7 +43,7 @@ Se ha implementado un modelo de **Regresión Logística** con los siguientes pas
 
 Las siguientes gráficas muestran las regiones de decisión del modelo para el conjunto de entrenamiento y de prueba utilizando las características más significativas: **Glucosa** y **BMI**.
 
-![Entrenamiento](resultados_entrenamiento.png.png)
+![Entrenamiento](resultados_entrenamiento.png)
 
 ![Prueba](resultados_prueba.png)
 
